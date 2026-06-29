@@ -1,0 +1,325 @@
+/* SheThrives — embedded Cardo + Jost webfonts (extracted from source) */
+/* gothic */
+@font-face {
+  font-family: 'Cardo';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/4c1140f8-24e2-4a63-9a25-926793306033.woff2") format('woff2');
+  unicode-range: U+0304-0305, U+0308, U+0331, U+10330-1034A;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Cardo';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/7e59f3d8-13a3-4754-9c54-d5772a10886f.woff2") format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Cardo';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/6d577bfd-cfa4-47ab-bffd-6c855e292322.woff2") format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Cardo';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/05479dfe-7a24-4686-9e68-7da0a9936d69.woff2") format('woff2');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* old-italic */
+@font-face {
+  font-family: 'Cardo';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/b8ead8d9-2f79-4bc3-b754-45576354eb0d.woff2") format('woff2');
+  unicode-range: U+10300-1032F;
+}
+/* runic */
+@font-face {
+  font-family: 'Cardo';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/a02b5a32-cb4d-4dce-b868-5360f05a53a0.woff2") format('woff2');
+  unicode-range: U+16A0-16F8;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Cardo';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/2f35d04e-011f-4d2a-8538-94e36f6a887a.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Cardo';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/45184cfb-d883-4742-9937-6bcd6ba540d7.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* gothic */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/c4432ef2-80d2-487e-ba5d-07ad98da4546.woff2") format('woff2');
+  unicode-range: U+0304-0305, U+0308, U+0331, U+10330-1034A;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/d3c88baf-4b65-4ba3-ab2d-34bb94d6e7d4.woff2") format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/b8024528-c9d3-48c1-8c80-79ad168f45c4.woff2") format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/58b6bb97-a6ab-401f-9891-e3c59bb9e6a8.woff2") format('woff2');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* old-italic */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/8189d2b5-9442-4587-a5cf-3eb933ff6da2.woff2") format('woff2');
+  unicode-range: U+10300-1032F;
+}
+/* runic */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/d22e74b4-9197-4cc2-a40e-cf9d103b3fdf.woff2") format('woff2');
+  unicode-range: U+16A0-16F8;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/925281d6-87d9-40cb-ab4f-29fb305e43be.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/d3c9b009-e280-4ecd-abe1-3f60942c9f88.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* gothic */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/3567684f-3e15-46a4-a54b-dc46fd45f1da.woff2") format('woff2');
+  unicode-range: U+0304-0305, U+0308, U+0331, U+10330-1034A;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/981430f5-ff60-43cd-8aa7-851d38c81001.woff2") format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/e6630a07-9b46-414c-a2d6-b8800519cbd2.woff2") format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/9d5db5e0-3c4b-4240-bfa4-88ad9417546d.woff2") format('woff2');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* old-italic */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/e4b64548-4e1d-4771-8077-b6e94a2d188b.woff2") format('woff2');
+  unicode-range: U+10300-1032F;
+}
+/* runic */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/706b37c6-f3bf-40c7-9f56-73b7241ec6ff.woff2") format('woff2');
+  unicode-range: U+16A0-16F8;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/121ba4bd-8d58-41af-8d11-017a35ba6d7a.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/d52be3da-6c0d-4153-a272-56113cd777c2.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/958117ad-d336-4b2b-8bda-40d7ac906e2d.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/302c66f3-2fc7-4436-89cf-2823b28a8dee.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/cd43c381-63cf-4073-9488-d5d11d99f41c.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/958117ad-d336-4b2b-8bda-40d7ac906e2d.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/302c66f3-2fc7-4436-89cf-2823b28a8dee.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/cd43c381-63cf-4073-9488-d5d11d99f41c.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/958117ad-d336-4b2b-8bda-40d7ac906e2d.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/302c66f3-2fc7-4436-89cf-2823b28a8dee.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/cd43c381-63cf-4073-9488-d5d11d99f41c.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/958117ad-d336-4b2b-8bda-40d7ac906e2d.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/302c66f3-2fc7-4436-89cf-2823b28a8dee.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/cd43c381-63cf-4073-9488-d5d11d99f41c.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
