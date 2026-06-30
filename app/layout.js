@@ -64,7 +64,11 @@ const FAQ_LD = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>
+      {/* suppressHydrationWarning tolerates DOM mutations that browser
+          extensions (Grammarly, password managers, translators, Dark Reader)
+          make to <body> before React hydrates — the usual cause of spurious
+          "error while hydrating" reports. */}
+      <body suppressHydrationWarning>
         <div style={s("min-height: 100vh; background: #f0ebe2; overflow-x: clip;")}>
           <Header />
           {children}
